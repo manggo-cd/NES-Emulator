@@ -1,4 +1,4 @@
-#include "Bus.hpp"
+#include "Bus.h"
 
 Bus::Bus() {
     // Clear RAM contents, just in case 
